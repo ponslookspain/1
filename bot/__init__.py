@@ -1,0 +1,1 @@
+"""Telegram FanPay bot package."""
